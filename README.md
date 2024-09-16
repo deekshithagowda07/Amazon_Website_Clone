@@ -1,12 +1,12 @@
 # **Amazon Website Clone** 
 
-**Overview**
+##**Overview**
 
 This project is a frontend-only clone of the Amazon website, created using HTML and CSS. The goal of this project is to replicate the design and layout of the Amazon homepage as closely as possible, without any backend functionality.
 
 *********************************************************************************************************************************************************************************************************************
 
-**Features**
+##**Features**
 
 1. **Navigation Bar**: A header section with Amazon-style navigation including search bar, categories, and user options.
    
@@ -16,7 +16,7 @@ This project is a frontend-only clone of the Amazon website, created using HTML 
 
 *********************************************************************************************************************************************************************************************************************
 
-**Technologies Used**
+##**Technologies Used**
 
 1. HTML5 for the structure of the website.
    
@@ -24,7 +24,7 @@ This project is a frontend-only clone of the Amazon website, created using HTML 
 
 *********************************************************************************************************************************************************************************************************************
 
-**How to Run the Project**
+##**How to Run the Project**
 
 1. Open the index.html file in your browser:
    
@@ -32,12 +32,12 @@ This project is a frontend-only clone of the Amazon website, created using HTML 
 
 *********************************************************************************************************************************************************************************************************************
 
-**Screenshots**
+##**Screenshots**
 
 
 *********************************************************************************************************************************************************************************************************************
 
-**Future Enhancements**
+##**Future Enhancements**
 
 Add JavaScript to make the website interactive (e.g., search functionality, dynamic content loading).
 Implement backend with a server and database to handle user login, shopping cart, and product details.
