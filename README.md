@@ -1,4 +1,4 @@
-# Amazon Website Clone#
+**Amazon Website Clone** 
 
 **Overview**
 This project is a frontend-only clone of the Amazon website, created using HTML and CSS. The goal of this project is to replicate the design and layout of the Amazon homepage as closely as possible, without any backend functionality.
